@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Seguros Bolivar 
+- 🌱 I’m currently learning Cloud Computing: AWS, GCP | Programming: Javascript, Typescript, Python | Frontend: Angular | Backend: NodeJs
+- 👯 I’m looking to collaborate on ...
+- 💬 Ask me about AWS Cloud, Java, Spring, Spring Cloud, Linux   
+- 📫 How to reach me: Twitter: @3du4rd | LinkedIn: https://www.linkedin.com/in/3du4rd/
+- 😄 Hobbies: Watch SciFi Movies, Read Spiritual Books, Meditate, Practice Reiki and Taichi 
+
 <!--
 **3du4rd/3du4rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
